@@ -388,7 +388,7 @@ main .content .bottom-content .topic .text p {
     }
 
     .nav-expand {
-        position: absolute;
+        position: fixed;
         background-color: hsl(36, 100%, 99%);
         z-index: 11;
         width: 70%;
